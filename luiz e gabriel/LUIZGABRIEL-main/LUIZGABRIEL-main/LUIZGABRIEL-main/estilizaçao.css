@@ -1,0 +1,16 @@
+.cabecalho{
+    background-color: rgb(3, 49, 92);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+}
+    
+
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
